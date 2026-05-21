@@ -1,69 +1,70 @@
-<h1 align="center">Hi 👋, I'm Daksh Patel</h1>
-<h3 align="center">🚀 AI/ML Developer | Full Stack Developer | Final Year CSE Student</h3>
+<h1 align="center">Daksh Patel</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Enthusiast;Healthcare+Tech+Developer;Full+Stack+Developer;Always+Learning+New+Things"/>
+  Full Stack Web Developer • Computer Networks Learner • B.Tech CSE Student
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Building+Modern+Web+Applications;Learning+Computer+Networks;Creating+Real+World+Projects"/>
 </p>
 
 ---
 
-# 💫 About Me
+## About Me
 
-- 🎓 Final Year B.Tech CSE Student
-- 🧠 Passionate about AI/ML & Healthcare Tech
-- 🚀 Building intelligent systems like Cure Connect
-- 💻 Love Full Stack Development
-- 🌱 Currently learning advanced backend systems
+- Final Year B.Tech CSE Student  
+- Focused on Web Development  
+- Interested in Computer Networks  
+- Building scalable and user-friendly applications  
+- Exploring modern backend systems and databases  
 
 ---
 
-# 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mongodb,flask,git,github,vscode,mysql,c"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mongodb,mysql,flask,git,github,vscode,c&theme=dark"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-1909&show_icons=true&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Daksh-1909&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8"/>
+  
+  <img width="49%" src="https://streak-stats.demolab.com?user=Daksh-1909&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=7DD3FC"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Daksh-1909&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-1909&layout=compact&theme=tokyonight"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-1909&layout=compact&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=CBD5E1"/>
 </p>
 
 ---
 
-# 🔥 Featured Projects
+## Featured Projects
 
-## 🩺 Cure Connect
-AI-powered health report analyzer and disease prediction system.
+### Slotify
+Centralized appointment booking and slot management platform.
 
-## 🔍 UNLOST
-Smart Lost & Found Management System for institutions.
+### Inventory Management System
+Inventory and stock management solution for the student store at MS University.
 
-## ❤️ ECG Heart Risk Predictor
-Machine learning based ECG risk prediction system.
+### UNLOST
+Lost & Found Management System for institutions.
 
 ---
 
-# 🌐 Connect With Me
+## Connect
 
 <p align="center">
   <a href="https://github.com/Daksh-1909">
-    <img src="https://skillicons.dev/icons?i=github"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daksh-1909&label=Profile%20Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Daksh-1909&label=Profile+Views&color=0f172a&style=for-the-badge"/>
 </p>
