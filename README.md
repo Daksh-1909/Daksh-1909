@@ -8,34 +8,36 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Building+Modern+Web+Applications;Learning+Computer+Networks;Creating+Real+World+Projects"/>
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Daksh-1909&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=38BDF8&text_color=C9D1D9" width="49%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Daksh-1909&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=7DD3FC" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-1909&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9" width="42%" />
-</p>
-
 ---
 
 ## About Me
 
 - Final Year B.Tech CSE Student  
-- Focused on Full Stack Web Development  
+- Focused on Web Development  
 - Interested in Computer Networks  
-- Building scalable and modern web applications  
-- Exploring backend systems and databases  
+- Building scalable and user-friendly applications  
+- Exploring modern backend systems and databases  
 
 ---
 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,mongodb,mysql,flask,git,github,vscode,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mongodb,mysql,flask,git,github,vscode,c&theme=dark"/>
+</p>
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Daksh-1909&show_icons=true&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8"/>
+  
+  <img width="49%" src="https://streak-stats.demolab.com?user=Daksh-1909&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=7DD3FC"/>
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daksh-1909&layout=compact&theme=transparent&hide_border=true&title_color=7DD3FC&text_color=CBD5E1"/>
 </p>
 
 ---
